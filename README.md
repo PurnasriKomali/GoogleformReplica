@@ -11,14 +11,14 @@ Visual Studio (not Visual Studio Code) with Visual Basic support
 ## Backend Setup
 ### Clone the Repository:
 First, clone the repository to your local machine and navigate to the project directory:
-git clone https://github.com/yourusername/GoogleFormsReplica-Backend.git
-cd GoogleFormsReplica-Backend
+- git clone https://github.com/yourusername/GoogleFormsReplica-Backend.git
+- cd GoogleFormsReplica-Backend
 ### Install Dependencies:
 Install the required npm packages by running:
-npm install
+- npm install
 ### Create tsconfig.json:
 Initialize the TypeScript configuration file with the command:
-npx tsc --init
+- npx tsc --init
 ### Configure tsconfig.json:
 Open the tsconfig.json file and update it with the following configuration:
 {
@@ -33,14 +33,14 @@ Open the tsconfig.json file and update it with the following configuration:
 }
 ### Create src Directory and index.ts File:
 Create the source directory and an initial TypeScript file by running:
-mkdir src
-cd src
-echo > index.ts
+- mkdir src
+- cd src
+- echo > index.ts
 ### Implement API Endpoints:
 Implement the necessary API endpoints in the src/index.ts file.
 ### Create db.json File:
 In the root directory of the backend project, create a db.json file with the following initial content:
-[]
+- []
 ### Compile and Run the Server:
 Compile the TypeScript files and start the server by running:
 - npx tsc
