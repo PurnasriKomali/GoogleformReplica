@@ -43,8 +43,8 @@ In the root directory of the backend project, create a db.json file with the fol
 []
 ### Compile and Run the Server:
 Compile the TypeScript files and start the server by running:
-npx tsc
-node dist/index.js
+- npx tsc
+- node dist/index.js
 ## Frontend Setup
 Open Visual Studio:
 Ensure you have Visual Studio installed with Visual Basic support. Create a new Windows Forms App (.NET Framework) project in Visual Basic.
