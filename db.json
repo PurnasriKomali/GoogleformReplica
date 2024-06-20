@@ -3,7 +3,21 @@
     "name": "john",
     "email": "john@gmail.com",
     "phone": "9876543212",
-    "github_link": "https://john/github.com",
+    "github_link": "https://github.com/john",
     "stopwatch_time": "00:00:01.2590951"
+  },
+   {
+    "name": "lucy",
+    "email": "lucy@gmail.com",
+    "phone": "98357845743",
+    "github_link": "https://github.com/lucy",
+    "stopwatch_time": "00:00:02.2590951"
+  },
+   {
+    "name": "alex",
+    "email": "alex@gmail.com",
+    "phone": "84375843878",
+    "github_link": "https://github.com/alex",
+    "stopwatch_time": "00:00:03.2590951"
   }
 ]
